@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calbhong
-- 👀 I’m interested in ...
+- 👀 I’m interested in front-end, project/product management, and web development
 - 🌱 I’m currently learning React, TypeScript, and UI/UX!
 - 📫 How to reach me
   * ✉️ Contact me: calbhong@gmail.com
