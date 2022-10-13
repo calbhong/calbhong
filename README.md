@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React, TypeScript, and UI/UX!
 - 📫 How to reach me
-* ✉️ Contact me: calbhong@gmail.com
-* 🦉 Twitter: https://twitter.com/calbhong
+  * ✉️ Contact me: calbhong@gmail.com
+  * 🦉 Twitter: https://twitter.com/calbhong
 
 
 
