@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @calbhong
+👋 Hi, I’m @calbhong
 - 👀 I’m interested in front-end, project/product management, and web development
 - 🌱 I’m currently work in JavaScript and Python!
 - 📫 How to reach me
