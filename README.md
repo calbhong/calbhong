@@ -1,6 +1,10 @@
-👋 Hi, I’m @calbhong
+# 👋 hi im cal.
+
+###Project Manager & Frontend Developer
+
+
 - 👀 I’m interested in front-end, project/product management, and web development
-- 🌱 I’m currently work in JavaScript and Python!
+- 🌱 I currently work in JavaScript and Python! Most of my projects are done with react/nextjs
 - 📫 How to reach me
   * ✉️ Contact me: calbhong@gmail.com
   * 🦉 Twitter: https://twitter.com/calbhong
