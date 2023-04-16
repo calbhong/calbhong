@@ -1,6 +1,6 @@
 # 👋 hi im cal.
 
-###Project Manager & Frontend Developer
+### Project Manager & Frontend Developer
 
 
 - 👀 I’m interested in front-end, project/product management, and web development
