@@ -3,8 +3,8 @@
 ### Project Manager & Frontend Developer
 
 
-- 👀 I’m interested in front-end, project/product management, and web development
-- 🌱 I currently work in JavaScript and Python! Most of my projects are done with react/nextjs
+- 👀 I currently work in JavaScript and Python! Most of my projects are done with react/nextjs
+- 🌱 Love to learn more about UI/UX, product design, & more!
 - 📫 How to reach me
   * ✉️ Contact me: calbhong@gmail.com
   * 🦉 Twitter: https://twitter.com/calbhong
