@@ -7,7 +7,6 @@
 - 🌱 Love to learn more about UI/UX, product design, & more!
 - 📫 How to reach me
   * ✉️ Contact me: calbhong@gmail.com
-  * 🦉 Twitter: https://twitter.com/calbhong
 
 
 
